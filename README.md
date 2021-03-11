@@ -1,1 +1,37 @@
-# Udacity-dataanalyst-Investigate_a_Dataset
+## Date Created
+This project was created on Friday 5 February 2021
+
+## Investigate a Dataset
+
+## Project Overview
+In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+
+## Why this project?
+In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
+
+You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
+
+
+## What will I learn?
+After completing the project, you will:
+
+* Know all the steps involved in a typical data analysis process
+* Be comfortable posing questions that can be answered with a given dataset and then answering those questions
+* Know how to investigate problems in a dataset and wrangle the data into a format you can use
+* Have experience communicating the results of your analysis
+* Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
+* Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
+* Know how to use Matplotlib to produce plots showing your findings
+
+## Dataset used
+No-show appointments (original source on Kaggle)
+
+This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
+
+
+## Files used
+* noshowappointments.csv
+* investigate-a-dataset_no_show_appointments_JW.ipynb
+
+## Credits
+Udacity
